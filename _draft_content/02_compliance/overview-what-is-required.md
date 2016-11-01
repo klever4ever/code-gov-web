@@ -23,6 +23,7 @@ December 6 will mark 120 days from the issuance of the policy. By December 6, th
   - Metadata schema to help agencies fill out their enterprise code inventories (7.2)
 - Agencies must:
  - Update their enterprise code inventories using the metadata schema provided by OMB (7.2)
+ - Articulate how they plan to comply with the FSCP (either by creating a new policy, or by adding language to a current policy that is relevant to the FSCP). It's recommended that agencies also identify how they plan to work with their agency's acquisition team(s) to ensure that they are consistently securing the rights necessary to satisfy the government-wide reuse and open source requirements of the FSCP.
 
 # Day 121 and onward
 After these initial deliverables have been met, OMB and agencies will work together to drive implementation and capacity building across the Executive Branch. Generally, agencies should plan to:
